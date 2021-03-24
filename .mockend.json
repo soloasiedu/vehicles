@@ -1,0 +1,298 @@
+[
+    {
+      "id": 1,
+      "make": "vehicleMake",
+      "model": "Toyota",
+      "chasis_number": "767367373",
+      "plate_number": "38729837",
+      "registration_date": "46-87-2533",
+      "municipal_assembly": "Tadi",
+      "station": "cape coast",
+      "owner": {
+        "name": "Yaw Marfo",
+        "phone_number": "373872837",
+        "residential_address": "Tema",
+        "postal_address": "p.o box 76383",
+        "identification": {
+          "id_type": "voters id",
+          "number": "32873897"
+        },
+        "tin_number": "3878373",
+        "date_owned": "63-83-23"
+      },
+      "driver": {
+        "name": "Kwame Sarfo",
+        "phone_number": "0282726726",
+        "license": {
+          "number": "67383737",
+          "class": "A"
+        },
+        "residential_address": "East Legon",
+        "identification": {
+          "id_type": "voters id",
+          "number": "883782"
+        },
+        "tin_number": "3783773",
+        "start_date": "23-13-3733"
+      }
+    },
+    {
+      "id": 2,
+      "make": "Car2",
+      "model": "Modle2",
+      "chasis_number": "47363",
+      "plate_number": "336736",
+      "registration_date": "36-78-2001",
+      "municipal_assembly": "Anabra",
+      "station": "whales",
+      "owner": {
+        "name": "Ofori Kwame",
+        "phone_number": "3873738",
+        "residential_address": "California",
+        "postal_address": "p.o box 93873",
+        "identification": {
+          "id_type": "voters id",
+          "number": "24234"
+        },
+        "tin_number": "8937337",
+        "date_owned": "63-83-23"
+      },
+      "driver": {
+        "name": "Aba Efya",
+        "phone_number": "37836737",
+        "license": {
+          "number": "67383737",
+          "class": "B"
+        },
+        "residential_address": "Bel Air",
+        "identification": {
+          "id_type": "voters id",
+          "number": "626352"
+        },
+        "tin_number": "38938737",
+        "start_date": "23-13-3733"
+      }
+    },
+    {
+      "id": 3,
+      "make": "Car3",
+      "model": "Modle3",
+      "chasis_number": "47363",
+      "plate_number": "336736",
+      "registration_date": "36-78-2001",
+      "municipal_assembly": "Anabra",
+      "station": "whales",
+      "owner": {
+        "name": "Ofori Kwame",
+        "phone_number": "3873738",
+        "residential_address": "California",
+        "postal_address": "p.o box 93873",
+        "identification": {
+          "id_type": "voters id",
+          "number": "24234"
+        },
+        "tin_number": "8937337",
+        "date_owned": "63-83-23"
+      },
+      "driver": {
+        "name": "Aba Efya",
+        "phone_number": "37836737",
+        "license": {
+          "number": "67383737",
+          "class": "B"
+        },
+        "residential_address": "Bel Air",
+        "identification": {
+          "id_type": "voters id",
+          "number": "626352"
+        },
+        "tin_number": "38938737",
+        "start_date": "23-13-3733"
+      }
+    },
+    {
+      "id": 4,
+      "make": "Car4",
+      "model": "Modle4",
+      "chasis_number": "47363",
+      "plate_number": "336736",
+      "registration_date": "36-78-2001",
+      "municipal_assembly": "Anabra",
+      "station": "whales",
+      "owner": {
+        "name": "Ofori Kwame",
+        "phone_number": "3873738",
+        "residential_address": "California",
+        "postal_address": "p.o box 93873",
+        "identification": {
+          "id_type": "voters id",
+          "number": "24234"
+        },
+        "tin_number": "8937337",
+        "date_owned": "63-83-23"
+      },
+      "driver": {
+        "name": "Aba Efya",
+        "phone_number": "37836737",
+        "license": {
+          "number": "67383737",
+          "class": "B"
+        },
+        "residential_address": "Bel Air",
+        "identification": {
+          "id_type": "voters id",
+          "number": "626352"
+        },
+        "tin_number": "38938737",
+        "start_date": "23-13-3733"
+      }
+    },
+    {
+      "id": 5,
+      "make": "Car5",
+      "model": "Modle5",
+      "chasis_number": "47363",
+      "plate_number": "336736",
+      "registration_date": "36-78-2001",
+      "municipal_assembly": "Anabra",
+      "station": "whales",
+      "owner": {
+        "name": "Ofori Kwame",
+        "phone_number": "3873738",
+        "residential_address": "California",
+        "postal_address": "p.o box 93873",
+        "identification": {
+          "id_type": "voters id",
+          "number": "24234"
+        },
+        "tin_number": "8937337",
+        "date_owned": "63-83-23"
+      },
+      "driver": {
+        "name": "Aba Efya",
+        "phone_number": "37836737",
+        "license": {
+          "number": "67383737",
+          "class": "B"
+        },
+        "residential_address": "Bel Air",
+        "identification": {
+          "id_type": "voters id",
+          "number": "626352"
+        },
+        "tin_number": "38938737",
+        "start_date": "23-13-3733"
+      }
+    },
+    {
+      "id": 6,
+      "make": "Car6",
+      "model": "Modle6",
+      "chasis_number": "47363",
+      "plate_number": "336736",
+      "registration_date": "36-78-2001",
+      "municipal_assembly": "Anabra",
+      "station": "whales",
+      "owner": {
+        "name": "Ofori Kwame",
+        "phone_number": "3873738",
+        "residential_address": "California",
+        "postal_address": "p.o box 93873",
+        "identification": {
+          "id_type": "voters id",
+          "number": "24234"
+        },
+        "tin_number": "8937337",
+        "date_owned": "63-83-23"
+      },
+      "driver": {
+        "name": "Aba Efya",
+        "phone_number": "37836737",
+        "license": {
+          "number": "67383737",
+          "class": "B"
+        },
+        "residential_address": "Bel Air",
+        "identification": {
+          "id_type": "voters id",
+          "number": "626352"
+        },
+        "tin_number": "38938737",
+        "start_date": "23-13-3733"
+      }
+    },
+    {
+      "id": 7,
+      "make": "Car7",
+      "model": "Modle7",
+      "chasis_number": "47363",
+      "plate_number": "336736",
+      "registration_date": "36-78-2001",
+      "municipal_assembly": "Anabra",
+      "station": "whales",
+      "owner": {
+        "name": "Ofori Kwame",
+        "phone_number": "3873738",
+        "residential_address": "California",
+        "postal_address": "p.o box 93873",
+        "identification": {
+          "id_type": "voters id",
+          "number": "24234"
+        },
+        "tin_number": "8937337",
+        "date_owned": "63-83-23"
+      },
+      "driver": {
+        "name": "Aba Efya",
+        "phone_number": "37836737",
+        "license": {
+          "number": "67383737",
+          "class": "B"
+        },
+        "residential_address": "Bel Air",
+        "identification": {
+          "id_type": "voters id",
+          "number": "626352"
+        },
+        "tin_number": "38938737",
+        "start_date": "23-13-3733"
+      }
+    },
+    {
+      "id": "8",
+      "make": "ssdds",
+      "model": "Toyota",
+      "chasis_number": "23133113",
+      "plate_number": "1313311313",
+      "registration_date": "dfsffsdsf",
+      "municipal_assembly": "fhiuwbui",
+      "station": "Bogoso",
+      "owner": {
+        "name": "asdf",
+        "phone_number": "fwefwe",
+        "residential_address": "wfefe4",
+        "postal_address": "wfe4fwf",
+        "identification": {
+          "id_type": "fef4w34f4",
+          "number": "14433434"
+        },
+        "tin_number": "545332",
+        "date_owned": "02-11-2012"
+      },
+      "driver": {
+        "name": "Kevin Smith",
+        "phone_number": "38738737",
+        "license": {
+          "number": "373838",
+          "class": "C"
+        },
+        "residential_address": "sdfewe",
+        "identification": {
+          "id_type": "national id",
+          "number": "37838938"
+        },
+        "tin_number": "3839378",
+        "start_date": "09-05-2014"
+      }
+    }
+  ]
